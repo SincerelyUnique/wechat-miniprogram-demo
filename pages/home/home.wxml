@@ -1,0 +1,3 @@
+<view>
+  <navigator url="../sign/sign"><button>签到</button></navigator>
+</view>
